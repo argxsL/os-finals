@@ -2,7 +2,13 @@
 
 A comprehensive Java GUI application that simulates memory management techniques used in operating systems, specifically **Paging** and **Segmentation**.
 
-## Features
+## Demo
+
+Watch a quick demonstration of the Memory Management Simulator in action:
+[▶️ Watch Demo Video (MP4)](https://github.com/OG-CZ/memory-management-simulator/raw/main/demo.mp4)
+![Demo GIF](demo.gif)
+
+<!-- ## Features
 
 ### Core Functionality
 
@@ -31,7 +37,7 @@ A comprehensive Java GUI application that simulates memory management techniques
 - **Process Table**: List of all processes with their properties
 - **Control Panels**: Easy-to-use buttons for process and memory management
 - **Real-time Updates**: Live statistics and memory state updates
-- **Menu System**: File operations, simulation controls, and help
+- **Menu System**: File operations, simulation controls, and help -->
 
 ## How to Use
 
@@ -65,7 +71,7 @@ A comprehensive Java GUI application that simulates memory management techniques
 - **Memory Compaction**: Reorganize segments to reduce fragmentation
 - **Algorithm Selection**: Change page replacement algorithms in paging mode
 
-## Project Structure
+<!-- ## Project Structure
 
 ```
 src/main/java/
@@ -93,4 +99,4 @@ This simulator helps understand:
 - **Fragmentation** causes and solutions
 - **Page replacement algorithms** and their performance
 - **Address translation** mechanisms
-- **Memory compaction** benefits and costs
+- **Memory compaction** benefits and costs -->
