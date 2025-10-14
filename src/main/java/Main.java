@@ -16,8 +16,7 @@ public class Main {
                 ex.printStackTrace();
             }
         }
-        
-        // Launch GUI on EDT
+
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
